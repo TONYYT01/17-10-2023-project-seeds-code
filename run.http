@@ -1,0 +1,7 @@
+GET  http://localhost:2056/list
+PUT http://localhost:2056/info/change/102
+Content-Type: application/json
+
+{
+    "seed_name":"rose"
+}
